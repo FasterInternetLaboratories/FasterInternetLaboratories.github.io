@@ -18,7 +18,7 @@ Our PeeringDB : https://as203577.peeringdb.com/
 
 ---
 ### Connection method
-We are a non-profit network, so Private Interconnection (PNI) is not available.  
+We are a non-profit and small network, so Private Interconnection (PNI) is not available.  
 You can connect through a tunnel or through IX below.  
 Tunnels via the Internet or via NTT East NGN in Japan.
 
@@ -32,6 +32,7 @@ If there are not required tunnel, we can be flexible.
 Please feel free to contact us.  
 
 #### IX
+- GPC Missouri
 - IXP US FRE
 - IXP UK LON
 - IXP NL DRO
