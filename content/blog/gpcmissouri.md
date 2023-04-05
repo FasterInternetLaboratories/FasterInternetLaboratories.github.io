@@ -13,7 +13,7 @@ We are newly connected to Great Plains Connect (aka GPC Missouri) in Kansas at 1
 
 ---
 I would like to expand Peer.   
-Please feel free to contact us if you are interested.
+Please feel free to [contact us](https://as203577.net/contact/) if you are interested.
 
 ---
 We sincerely thank [August Internet](https://august.is)  for their support in all aspects.
