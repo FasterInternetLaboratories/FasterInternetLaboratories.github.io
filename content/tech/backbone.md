@@ -20,13 +20,14 @@ Total Bandwidth  **4,100**Mbps
 
 | IX | Location | Bandwidth |
 | :---: | :---: | :---: |
-| GPC Missouri | North Kansas City | 1Gbps |
-| 4b42 Internet Exchange Point | Zurich | 100Mbps |
-| IXP FI HEL | Helsinki,FI | 1Gbps | 
-| IXP LI VAD | Vaduz,LI | 1Gbps |
-| IXP NL DRO | Dronten,NL | 1Gbps |
-| IXP UK LON | London,UK | 1Gbps |
-| IXP US FRE | Fremont,US | 1Gbps |
+| GPC Missouri | North Kansas City | 1 Gbps |
+| MICE | North Kansas City | 10 Gbps |
+| 4b42 Internet Exchange Point | Zurich | 100 Mbps |
+| IXP FI HEL | Helsinki,FI | 1 Gbps | 
+| IXP LI VAD | Vaduz,LI | 1 Gbps |
+| IXP NL DRO | Dronten,NL | 1 Gbps |
+| IXP UK LON | London,UK | 1 Gbps |
+| IXP US FRE | Fremont,US | 1 Gbps |
 
 <!-- 
 

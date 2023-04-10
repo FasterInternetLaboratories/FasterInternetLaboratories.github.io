@@ -31,8 +31,11 @@ Tunnels via the Internet or via NTT East NGN in Japan.
 If there are not required tunnel, we can be flexible.  
 Please feel free to contact us.  
 
-#### IX
+#### Internet Exchange Points
 - GPC Missouri
+- MICE
+
+#### Virtual Internet Exchange Points
 - IXP US FRE
 - IXP UK LON
 - IXP NL DRO
