@@ -1,6 +1,6 @@
 +++
 title = "New IX connection, MICE"
-date = "2023-04-04"
+date = "2023-04-11"
 description = "New IX connection, MICe"
 tags = [
     "as203577",
