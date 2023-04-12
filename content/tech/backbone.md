@@ -16,7 +16,7 @@ Total Bandwidth  **22,050** Mbps
 | FranTech Solutions | AS53667 | Luxembourg | 10Gbps |
 
 ### IX
-Total Bandwidth  **4,100**Mbps  
+Total Bandwidth  **16,100**Mbps  
 
 | IX | Location | Bandwidth |
 | :---: | :---: | :---: |
