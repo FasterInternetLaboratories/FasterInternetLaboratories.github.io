@@ -1,4 +1,4 @@
-### Education and Research Network by [FiLabs](https://filabs.org)
+### Education and Research Network by Fumon Shimadate
 
 We are operating [AS203577](https://bgo.tools/as/203577)  
 
