@@ -33,7 +33,6 @@ Please feel free to contact us.
 
 #### Internet Exchange Points
 - GPC Missouri
-- MICE
 
 #### Virtual Internet Exchange Points
 - IXP US FRE
