@@ -21,7 +21,6 @@ Total Bandwidth  **16,100**Mbps
 | IX | Location | Bandwidth |
 | :---: | :---: | :---: |
 | GPC Missouri | North Kansas City | 1 Gbps |
-| MICE | North Kansas City | 10 Gbps |
 | 4b42 Internet Exchange Point | Zurich | 100 Mbps |
 | IXP FI HEL | Helsinki,FI | 1 Gbps | 
 | IXP LI VAD | Vaduz,LI | 1 Gbps |
