@@ -16,17 +16,11 @@ Total Bandwidth  **22,050** Mbps
 | FranTech Solutions | AS53667 | Luxembourg | 10Gbps |
 
 ### IX
-Total Bandwidth  **16,100**Mbps  
+Total Bandwidth  **1,000**Mbps  
 
 | IX | Location | Bandwidth |
 | :---: | :---: | :---: |
 | GPC Missouri | North Kansas City | 1 Gbps |
-| 4b42 Internet Exchange Point | Zurich | 100 Mbps |
-| IXP FI HEL | Helsinki,FI | 1 Gbps | 
-| IXP LI VAD | Vaduz,LI | 1 Gbps |
-| IXP NL DRO | Dronten,NL | 1 Gbps |
-| IXP UK LON | London,UK | 1 Gbps |
-| IXP US FRE | Fremont,US | 1 Gbps |
 
 <!-- 
 
