@@ -32,15 +32,7 @@ If there are not required tunnel, we can be flexible.
 Please feel free to contact us.  
 
 #### Internet Exchange Points
-- GPC Missouri
-
-#### Virtual Internet Exchange Points
-- IXP US FRE
-- IXP UK LON
-- IXP NL DRO
-- IXP LI VAD
-- IXP FI HEL
-- 4b42 Internet Exchange Point  
+- GPC Missouri  
 
 Please check [PeeringDB](https://as203577.peeringdb.com/) for the latest status.  
 
