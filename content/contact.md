@@ -5,7 +5,7 @@ menu = "main"
 
 # Contact
 
-Abuse : [abuse@filabs.org](<mailto:abuse@filabs.org>)
+Abuse : [abuse@shimadate.com](<mailto:abuse@shimadate.com>)
 
-Peering : [peer@filabs.org](<mailto:peer@filabs.org>)
+Peering : [peer@shimadate.com](<mailto:peer@shimadate.com>)
 
