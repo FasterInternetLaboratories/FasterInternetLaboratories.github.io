@@ -32,6 +32,7 @@ If there are not required tunnel, we can be flexible.
 Please feel free to contact us.  
 
 #### Internet Exchange Points
+- Japan Community Internet eXchange
 - GPC Missouri  
 
 Please check [PeeringDB](https://as203577.peeringdb.com/) for the latest status.  
