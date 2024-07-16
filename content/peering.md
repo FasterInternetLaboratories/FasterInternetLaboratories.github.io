@@ -7,7 +7,7 @@ menu = "main"
 
 We operate networks in the USA, Luxembourg and Japan.  
 
-FiLabs (AS203577) has an open peering policy.  
+FSlab (AS203577) has an open peering policy.  
 
 We accept peers via IX or tunnel according to the following policy.  
 
