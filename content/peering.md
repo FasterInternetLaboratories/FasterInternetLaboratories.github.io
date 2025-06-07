@@ -5,7 +5,7 @@ menu = "main"
 
 # Peering Policy
 
-We operate networks in the USA, Luxembourg and Japan.  
+We operate networks in the Luxembourg and Japan.  
 
 FSlab (AS203577) has an open peering policy.  
 
@@ -33,7 +33,6 @@ Please feel free to contact us.
 
 #### Internet Exchange Points
 - Japan Community Internet eXchange
-- GPC Missouri  
 
 Please check [PeeringDB](https://as203577.peeringdb.com/) for the latest status.  
 
