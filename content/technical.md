@@ -3,7 +3,7 @@ title = "Technical Information"
 menu = "main"
 +++
 
-![](https://bgp.tools/pathimg/rt-2a12:dd47:81e0::_44)
+![](https://bgp.tools/pathimg/rt-2a06:41:8100::_40)
 
 ## Some Tools
 [Looking Glass](/tech/looking-glass)  
